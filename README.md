@@ -2,14 +2,7 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/tahaak67/Vikas?style=flat-square)](https://github.com/tahaak67/Vikas/issues) [![GitHub stars](https://img.shields.io/github/stars/tahaak67/Vikas?style=flat-square)](https://github.com/tahaak67/Vikas/stargazers) [![GitHub license](https://img.shields.io/github/license/tahaak67/Vikas?style=flat-square)](https://github.com/tahaak67/Vikas/blob/main/LICENSE) [![Weblate project translated](https://img.shields.io/weblate/progress/farhan?style=flat-square&color=orange&link=https%3A%2F%2Fhosted.weblate.org%2Fengage%2Ffarhan%2F)](https://hosted.weblate.org/engage/farhan/)[![Translation status](https://hosted.weblate.org/widget/farhan/287x66-black.png)](https://hosted.weblate.org/engage/farhan/)
 
-## Downloads
 
-You can download the app from Google Play or
-from [IzzyOnDroid repo](https://apt.izzysoft.de/fdroid/index.php) trought a F-Droid compatible
-client by clicking the badge below:
-
-<a href='https://play.google.com/store/apps/details?id=ly.com.tahaben.farhan'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="250"/></a>
-<a href='https://apt.izzysoft.de/fdroid/index/apk/ly.com.tahaben.farhan'><img alt='Get it on IzzyOnDroid' src='https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png' width="250"/></a>
 
 Download the latest apk from Github by
 clicking [here](https://github.com/tahaak67/Vikas/releases/latest).
